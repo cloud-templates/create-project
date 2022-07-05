@@ -1,0 +1,5 @@
+Sitemap: https://cloud-templates.github.io/create-project/sitemap.xml
+
+User-agent: *
+
+Sitemap: https://cloud-templates.github.io/create-project/create-project/sitemap.xml
